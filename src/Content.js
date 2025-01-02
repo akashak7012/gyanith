@@ -65,22 +65,22 @@ const Content = () => {
             <div className="date">
                 <div><p>Date & Time</p></div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
             </div>
             <div className="description">
-            <span>1</span>
+            <span></span>
             </div>
             <div className="description">
-            <span>1</span>
+            <span></span>
             </div>
             <div className="description">
-            <span>1</span>
+            <span></span>
             </div>
             <div className="description">
-            <span>1</span>
+            <span></span>
             </div>
             <div className="description">
-            <span>1</span>
+            <span></span>
             </div>
             
             </div>
@@ -88,22 +88,22 @@ const Content = () => {
             <div className="venue">
                 <div className=''><p>Venue</p></div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
                 </div>
                 <div className="description">
-                    <span>1</span>
+                    <span></span>
                 </div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
                 </div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
                 </div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
                 </div>
                 <div className="description">
-                <span>1</span>
+                <span></span>
                 </div>
             
                 
