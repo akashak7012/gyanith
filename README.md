@@ -82,27 +82,6 @@ return (
 
 ---
 
-## **Styling**
-Customize the look and feel using `style.css`. Example styles for folders and icons:
-```css
-.folder {
-  display: flex;
-  align-items: center;
-  margin: 10px;
-  cursor: pointer;
-}
-.folder img {
-  width: 40px;
-  height: 40px;
-  margin-right: 10px;
-}
-.folder:hover {
-  background-color: #f0f0f0;
-}
-```
-
----
-
 ## **Contributing**
 Contributions are welcome!  
 1. Fork the repository.  
